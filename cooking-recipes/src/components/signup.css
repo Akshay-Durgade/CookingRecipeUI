@@ -1,0 +1,29 @@
+.image-1
+{
+    height:78vh;
+    width:55rem;
+    box-shadow: 5px 5px 5px  black;
+    margin: 10px;
+    
+}
+.image-2
+{
+    height:20%;
+    width: auto;
+}
+.top
+{
+    padding-top: 100px;
+    margin-bottom: 10px;
+}
+
+
+.font
+{
+    font-weight: 500;
+}
+
+.btn
+{
+    background-color:#e2f3f3 !important;
+}
